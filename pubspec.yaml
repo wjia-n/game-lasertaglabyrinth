@@ -1,7 +1,7 @@
 name: lasertaglabyrinth
 description: "Laser Tag Labyrinth - Team beams in glowing maze"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 environment:
   sdk: ^3.13.5
 
